@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Kassyane Furtado</h1>
 <h3 align="center">Biomédica e Bioinformata</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kassyanefurtado&label=Profile%20views&color=0e75b6&style=flat" alt="kassyanefurtado" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
