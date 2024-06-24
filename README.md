@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Kassyane Furtado</h1>
-<h3 align="center">Biomédica e Bioinformata</h3>
+<h3 align="center">Biomédica </h3>
 
 
 
