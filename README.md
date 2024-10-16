@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Kassyane Furtado</h1>
-<h3 align="center">Biomédica </h3>
+<h3 align="center">Biomédica e Bioinformata </h3>
 
 
 
@@ -9,9 +9,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> </a> <a href="https://www.java.com/pt-BR/" tarrget="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> </a> <a href="https://www.linux.org/" tarrget="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="java" width="40" height="40"/> </p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kassyanefurtado&show_icons=true&locale=en&layout=compact" alt="kassyanefurtado" /></p>
 
